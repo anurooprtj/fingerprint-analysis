@@ -17,4 +17,4 @@ Foreground and Background classification of fingerprint data using CNN.
 
 ### Performance Chart 
 
-![alt text](https://github.com/anurooprtj/iris-analysis/blob/master/performance_chart.png)
+![alt text](https://github.com/anurooprtj/fingerprint-analysis/blob/master/performance_chart.png)
